@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola! Soy Iván Contreras 👋
+---
+######Soy un Full-Stack Web Developer 💻, actualmente en busca de trabajo 🚀.
+Tengo 19 años. Soy bastante nuevo en este rubro, pero si de algo estoy seguro, es de que me apasiona lo que hago,
+tengo todas las energias💪🏼 y el entusiasmo🏃 por aportar mis conocimientos y valores en una comunidad 👫, aparte de seguir 
+creciendo, avanzando y aprendiendo al ritmo que lo hice este ultimo tiempo donde adquirí todo lo aprendido!!🔥⚡.
 
 <!--
 **IvanContrerasDev/IvanContrerasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
