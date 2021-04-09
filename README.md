@@ -54,7 +54,7 @@ tengo todas las *energias💪🏼 y el entusiasmo🏃* por aportar mis **conocim
 <p>
 <a href="https://github.com/IvanContrerasDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanContrerasDev&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/? username=IvanContrerasDev&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IvanContrerasDev&theme=radical&layout=compact" />
 </a>
 </p>
 
