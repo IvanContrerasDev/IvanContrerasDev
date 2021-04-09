@@ -47,12 +47,14 @@ tengo todas las *energias💪🏼 y el entusiasmo🏃* por aportar mis **conocim
 
 ## Contacto:
 <p align="left">
-<a href="mailto: delucaivan.01@gmail.com" target="_blank" style="display:flex">
-  <h5>delucaivan.01@gmail.com</h5>
+<a href="mailto: delucaivan.01@gmail.com" target="_blank" style={display: flex;}>
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
+  <h5>delucaivan.01@gmail.com</h5>
 </a>
 <h5> Número telefónico: <a href="tel: +5492644162701">264 416-2701 </a> </h5>
-<a href="https://www.linkedin.com/in/ivan-contreras-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ivan-contreras-dev/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ivan-contreras-dev/" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="https://www.linkedin.com/in/ivan-contreras-dev/" height="40"        width="40" />
+</a>
 </p>
 
 <!--
