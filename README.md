@@ -1,13 +1,12 @@
-### Hola! Soy Iván Contreras 👋
+# Hola! Soy Iván Contreras 👋
 ---
-##### Soy un Full-Stack Web Developer 💻, actualmente en busca de trabajo 🚀.
+## Soy un Full-Stack Web Developer 💻, actualmente en busca de trabajo 🚀.
 Tengo 19 años. Soy bastante nuevo en este rubro, pero si de algo estoy seguro, es de que me **apasiona** lo que hago,
 tengo todas las *energias💪🏼 y el entusiasmo🏃* por aportar mis **conocimientos y valores** en una comunidad 👫, aparte de seguir 
 *creciendo, avanzando y aprendiendo* al ritmo que lo hice este ultimo tiempo donde adquirí todo lo aprendido!!🔥⚡.
 
-#### Habilidades Tecnicas:
+## Habilidades Tecnicas:
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css3" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank">
@@ -20,7 +19,7 @@ tengo todas las *energias💪🏼 y el entusiasmo🏃* por aportar mis **conocim
 <img src="https://github.com/reduxjs/redux/blob/master/logo/logo.svg" alt="redux" width="40" height="40"/> </a> 
 </p>
 
-#### Contacto:
+## Contacto:
 <p align="left">
 <a href="https://www.linkedin.com/in/ivan-contreras-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ivan-contreras-dev/" height="30" width="40" /></a>
 </p>
