@@ -1,17 +1,17 @@
-![hire-javascript-developer-banner](https://codersera.com/blog/wp-content/uploads/2019/07/oie_995548XsI0kBI.jpg)
-
+### ![hire-javascript-developer-banner](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg)
 <h1 align="center">Hola! Soy Iván Contreras 👋</h1>
----
 <h3 align="center">Full-Stack Web Developer 💻 actualmente en busca de trabajo 🚀.</h3>
 Tengo 19 años. Soy bastante nuevo en este rubro, pero si de algo estoy seguro, es de que me **apasiona** lo que hago,
 tengo todas las *energias💪🏼 y el entusiasmo🏃* por aportar mis **conocimientos y valores** en una comunidad 👫, aparte de seguir 
 *creciendo, avanzando y aprendiendo* al ritmo que lo hice este ultimo tiempo donde adquirí todo lo aprendido!!🔥⚡.
 
-- ✌🏻 Argentina
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IvanContrerasDev" alt="pydevsg" /> </p>
 
-- 📫 Contact me - **delucaivan.01@gmail.com**
+- 🇦🇷 Argentina
 
-- 📞 Phone: **+54 264162701**
+- 📫 Contacto: - **delucaivan.01@gmail.com**
+
+- 📞 Teléfono: **+54 264162701**
 
 ## Habilidades Tecnicas:
 
@@ -53,11 +53,11 @@ tengo todas las *energias💪🏼 y el entusiasmo🏃* por aportar mis **conocim
 
 </p>
 
-<h3> 🤝🏻 &nbsp; Conecta conmigo </h3>
+<h3> 🤝 &nbsp; Conectá conmigo </h3>
 
 <p align="center">
 <!--
-<a href="https://.github.io/Portfolio-/"><img src="https://img.shields.io/badge/-MatiasFunes94.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://.github.io/Portfolio-/"><img src="https://img.shields.io/badge/-.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 -->
 <a href="https://www.linkedin.com/in/ivan-contreras-dev/"><img src="https://img.shields.io/badge/-Ivan%20Contreras-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:delucaivan.01@gmail.com"><img src="https://img.shields.io/badge/-delucaivan.01@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
