@@ -1,9 +1,9 @@
 ### ![hire-javascript-developer-banner](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg)
 <h1 align="center">Hola! Soy Iván Contreras 👋</h1>
 <h3 align="center">Full-Stack Web Developer 💻 actualmente en busca de trabajo 🚀.</h3>
-🖥️ Desarrollador en constante crecimiento y expansión!!.
-🌐 Cuento con una solida formación, y experiencia en el desarrollo Back-End y Front-End de aplicaciones web.
-📣 Me encuentro en búsqueda de una compañía, donde pueda formar parte de su equipo y aportar mis conocimientos, habilidades, experiencias y valores humanísticos para hacer de ese, un lugar mejor.
+🖥️ Desarrollador en constante crecimiento y expansión!!.<br/>
+🌐 Cuento con una solida formación, y experiencia en el desarrollo Back-End y Front-End de aplicaciones web.<br/>
+📣 Me encuentro en búsqueda de una compañía, donde pueda formar parte de su equipo y aportar mis conocimientos, habilidades, experiencias y valores humanísticos para hacer de ese, un lugar mejor.<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IvanContrerasDev" alt="pydevsg" /> </p>
 
